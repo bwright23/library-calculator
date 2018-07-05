@@ -1,0 +1,6 @@
+C:\Users\Barry\Desktop\Development\VSCode\Calculator\bin\Debug\netstandard1.4\Calculator.deps.json
+C:\Users\Barry\Desktop\Development\VSCode\Calculator\obj\Debug\netstandard1.4\Calculator.AssemblyInfo.cs
+C:\Users\Barry\Desktop\Development\VSCode\Calculator\bin\Debug\netstandard1.4\Calculator.dll
+C:\Users\Barry\Desktop\Development\VSCode\Calculator\bin\Debug\netstandard1.4\Calculator.pdb
+C:\Users\Barry\Desktop\Development\VSCode\Calculator\obj\Debug\netstandard1.4\Calculator.dll
+C:\Users\Barry\Desktop\Development\VSCode\Calculator\obj\Debug\netstandard1.4\Calculator.pdb
